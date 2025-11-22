@@ -2,7 +2,7 @@
 **Candidate:** K M Vaishnavi Gowda
 
 This repository contains a Python simulation for **Q1 – BMS with CAN Communication** (2s2p pack).
-Original assignment PDF (uploaded): /mnt/data/Arys Garage – Assignments Nov 2025 .pdf
+
 
 ## Quick start
 ```bash
